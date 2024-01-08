@@ -27,7 +27,11 @@ class Solution:
 			
 
 sol = Solution()
-print( sol.dailyTemperatures([73,74,75,71,69,72,76,73])   )
+
+print( sol.dailyTemperatures([73,74,75,71,69,72,76,73]) )
+
+
+
 
 
 
